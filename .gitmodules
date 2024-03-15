@@ -1,0 +1,6 @@
+[submodule "bank-loan-spring"]
+	path = bank-loan-spring
+	url = https://github.com/andredias20/bank-loan-spring
+[submodule "bank-loan-angular"]
+	path = bank-loan-angular
+	url = https://github.com/andredias20/bank-loan-angular
